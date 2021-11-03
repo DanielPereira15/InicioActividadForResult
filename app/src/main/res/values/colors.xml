@@ -8,5 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="miColor">#74AF38</color>
+    <color name="miColor2">#383AAF</color>
+
 
 </resources>

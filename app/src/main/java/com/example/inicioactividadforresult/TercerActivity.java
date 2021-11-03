@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class SegundoActivity extends AppCompatActivity {
+public class TercerActivity extends AppCompatActivity {
 
     private TextView tvMensaje;
     private EditText etTexto;
@@ -17,7 +17,7 @@ public class SegundoActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_segundo);
+        setContentView(R.layout.activity_tercer);
 
         tvMensaje=findViewById(R.id.tvMensaje);
         etTexto=findViewById(R.id.etTexto);

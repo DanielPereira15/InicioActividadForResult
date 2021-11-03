@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InicioActividadForResult">
         <activity
+            android:name=".TercerActivity"
+            android:exported="false" />
+        <activity
             android:name=".SegundoActivity"
             android:exported="false" />
         <activity
